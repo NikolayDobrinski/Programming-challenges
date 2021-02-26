@@ -1,1 +1,1 @@
-Tasks from my coding challenges in sites hackerrank.com and codewars.com
+Tasks from my coding challenges on websites hackerrank.com and codewars.com
